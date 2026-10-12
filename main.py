@@ -6,6 +6,7 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 def greet(name):
     # Dong 6
     return f"moi lan nho em la mot ngay mua dau roi Xin chao, {name}!"
+    return f"cỏ lúa bằng nhau, {name}!"
 
 
 def add(a, b):
