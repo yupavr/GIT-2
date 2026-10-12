@@ -5,12 +5,14 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 
 def greet(name):
     # Dong 6
-    return f"Moi sua yêu ai vậy nhut anh va hoang hiep vakim tinh map mo cu di dau roi Xin chao, {name}!"
+    return f"Moi sua yêu ai vậy kim tinh map mo cu di dau roi Xin chao, {name}!"
 
 
 def add(a, b):
     a = 100   
     b = 200
+    c = 300
+    d = 400
     return a + b
 
 
